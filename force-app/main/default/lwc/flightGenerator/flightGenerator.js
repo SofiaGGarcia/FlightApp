@@ -114,6 +114,3 @@ export default class FlightGenerator extends LightningElement {
         this.flightDistance = 0;
     }
 }
-
-
-

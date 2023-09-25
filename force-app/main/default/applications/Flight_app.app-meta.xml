@@ -15,6 +15,7 @@
     <navType>Standard</navType>
     <tabs>Airport__c</tabs>
     <tabs>Flight__c</tabs>
+    <tabs>Flight_generator</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Flight_app_UtilityBar</utilityBar>
 </CustomApplication>

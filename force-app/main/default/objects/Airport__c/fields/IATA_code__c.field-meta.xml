@@ -8,33 +8,12 @@
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
-        <restricted>true</restricted>
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>AAO-Venezuela</fullName>
-                <default>true</default>
-                <label>AAO-Venezuela</label>
-            </value>
-            <value>
-                <fullName>AAX-Brazil</fullName>
-                <default>false</default>
-                <label>AAX-Brazil</label>
-            </value>
-            <value>
-                <fullName>AAZ-Guatemala</fullName>
-                <default>false</default>
-                <label>AAZ-Guatemala</label>
-            </value>
-            <value>
                 <fullName>ACA-Mexico</fullName>
-                <default>false</default>
+                <default>true</default>
                 <label>ACA-Mexico</label>
-            </value>
-            <value>
-                <fullName>ACN-Mexico</fullName>
-                <default>false</default>
-                <label>ACN-Mexico</label>
             </value>
             <value>
                 <fullName>AEP-Argentina</fullName>
@@ -42,94 +21,9 @@
                 <label>AEP-Argentina</label>
             </value>
             <value>
-                <fullName>AFA-Argentina</fullName>
-                <default>false</default>
-                <label>AFA-Argentina</label>
-            </value>
-            <value>
-                <fullName>AFL-Brazil</fullName>
-                <default>false</default>
-                <label>AFL-Brazil</label>
-            </value>
-            <value>
-                <fullName>AGT-Paraguay</fullName>
-                <default>false</default>
-                <label>AGT-Paraguay</label>
-            </value>
-            <value>
-                <fullName>AGU-Mexico</fullName>
-                <default>false</default>
-                <label>AGU-Mexico</label>
-            </value>
-            <value>
-                <fullName>AGV-Venezuela</fullName>
-                <default>false</default>
-                <label>AGV-Venezuela</label>
-            </value>
-            <value>
-                <fullName>AHS-Honduras</fullName>
-                <default>false</default>
-                <label>AHS-Honduras</label>
-            </value>
-            <value>
-                <fullName>AIR-Brazil</fullName>
-                <default>false</default>
-                <label>AIR-Brazil</label>
-            </value>
-            <value>
-                <fullName>AJU-Brazil</fullName>
-                <default>false</default>
-                <label>AJU-Brazil</label>
-            </value>
-            <value>
-                <fullName>ANF-Chile</fullName>
-                <default>false</default>
-                <label>ANF-Chile</label>
-            </value>
-            <value>
-                <fullName>ANS-Peru</fullName>
-                <default>false</default>
-                <label>ANS-Peru</label>
-            </value>
-            <value>
-                <fullName>AOL-Argentina</fullName>
-                <default>false</default>
-                <label>AOL-Argentina</label>
-            </value>
-            <value>
-                <fullName>AOP-Peru</fullName>
-                <default>false</default>
-                <label>AOP-Peru</label>
-            </value>
-            <value>
-                <fullName>APQ-Brazil</fullName>
-                <default>false</default>
-                <label>APQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>APZ-Argentina</fullName>
-                <default>false</default>
-                <label>APZ-Argentina</label>
-            </value>
-            <value>
-                <fullName>AQA-Brazil</fullName>
-                <default>false</default>
-                <label>AQA-Brazil</label>
-            </value>
-            <value>
-                <fullName>AQB-Guatemala</fullName>
-                <default>false</default>
-                <label>AQB-Guatemala</label>
-            </value>
-            <value>
                 <fullName>AQP-Peru</fullName>
                 <default>false</default>
                 <label>AQP-Peru</label>
-            </value>
-            <value>
-                <fullName>ARI-Chile</fullName>
-                <default>false</default>
-                <label>ARI-Chile</label>
             </value>
             <value>
                 <fullName>ARR-Argentina</fullName>
@@ -137,39 +31,9 @@
                 <label>ARR-Argentina</label>
             </value>
             <value>
-                <fullName>ARU-Brazil</fullName>
-                <default>false</default>
-                <label>ARU-Brazil</label>
-            </value>
-            <value>
                 <fullName>ASU-Paraguay</fullName>
                 <default>false</default>
                 <label>ASU-Paraguay</label>
-            </value>
-            <value>
-                <fullName>ATA-Peru</fullName>
-                <default>false</default>
-                <label>ATA-Peru</label>
-            </value>
-            <value>
-                <fullName>ATF-Ecuador</fullName>
-                <default>false</default>
-                <label>ATF-Ecuador</label>
-            </value>
-            <value>
-                <fullName>ATI-Uruguay</fullName>
-                <default>false</default>
-                <label>ATI-Uruguay</label>
-            </value>
-            <value>
-                <fullName>ATM-Brazil</fullName>
-                <default>false</default>
-                <label>ATM-Brazil</label>
-            </value>
-            <value>
-                <fullName>AUX-Brazil</fullName>
-                <default>false</default>
-                <label>AUX-Brazil</label>
             </value>
             <value>
                 <fullName>AVI-Cuba</fullName>
@@ -177,54 +41,14 @@
                 <label>AVI-Cuba</label>
             </value>
             <value>
-                <fullName>AYO-Paraguay</fullName>
-                <default>false</default>
-                <label>AYO-Paraguay</label>
-            </value>
-            <value>
-                <fullName>AYP-Peru</fullName>
-                <default>false</default>
-                <label>AYP-Peru</label>
-            </value>
-            <value>
-                <fullName>BAI-Costa Rica</fullName>
-                <default>false</default>
-                <label>BAI-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>BAT-Brazil</fullName>
-                <default>false</default>
-                <label>BAT-Brazil</label>
-            </value>
-            <value>
-                <fullName>BAU-Brazil</fullName>
-                <default>false</default>
-                <label>BAU-Brazil</label>
-            </value>
-            <value>
-                <fullName>BAZ-Brazil</fullName>
-                <default>false</default>
-                <label>BAZ-Brazil</label>
-            </value>
-            <value>
                 <fullName>BBA-Chile</fullName>
                 <default>false</default>
                 <label>BBA-Chile</label>
             </value>
             <value>
-                <fullName>BCA-Cuba</fullName>
-                <default>false</default>
-                <label>BCA-Cuba</label>
-            </value>
-            <value>
                 <fullName>BCL-Costa Rica</fullName>
                 <default>false</default>
                 <label>BCL-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>BEF-Nicaragua</fullName>
-                <default>false</default>
-                <label>BEF-Nicaragua</label>
             </value>
             <value>
                 <fullName>BEL-Brazil</fullName>
@@ -237,34 +61,9 @@
                 <label>BFH-Brazil</label>
             </value>
             <value>
-                <fullName>BGX-Brazil</fullName>
-                <default>false</default>
-                <label>BGX-Brazil</label>
-            </value>
-            <value>
-                <fullName>BHG-Honduras</fullName>
-                <default>false</default>
-                <label>BHG-Honduras</label>
-            </value>
-            <value>
-                <fullName>BHI-Argentina</fullName>
-                <default>false</default>
-                <label>BHI-Argentina</label>
-            </value>
-            <value>
                 <fullName>BJO-Bolivia</fullName>
                 <default>false</default>
                 <label>BJO-Bolivia</label>
-            </value>
-            <value>
-                <fullName>BJP-Brazil</fullName>
-                <default>false</default>
-                <label>BJP-Brazil</label>
-            </value>
-            <value>
-                <fullName>BJX-Mexico</fullName>
-                <default>false</default>
-                <label>BJX-Mexico</label>
             </value>
             <value>
                 <fullName>BLA-Venezuela</fullName>
@@ -272,39 +71,9 @@
                 <label>BLA-Venezuela</label>
             </value>
             <value>
-                <fullName>BLB-Panama</fullName>
-                <default>false</default>
-                <label>BLB-Panama</label>
-            </value>
-            <value>
-                <fullName>BNS-Venezuela</fullName>
-                <default>false</default>
-                <label>BNS-Venezuela</label>
-            </value>
-            <value>
-                <fullName>BNU-Brazil</fullName>
-                <default>false</default>
-                <label>BNU-Brazil</label>
-            </value>
-            <value>
-                <fullName>BOC-Panama</fullName>
-                <default>false</default>
-                <label>BOC-Panama</label>
-            </value>
-            <value>
-                <fullName>BPG-Brazil</fullName>
-                <default>false</default>
-                <label>BPG-Brazil</label>
-            </value>
-            <value>
                 <fullName>BPS-Brazil</fullName>
                 <default>false</default>
                 <label>BPS-Brazil</label>
-            </value>
-            <value>
-                <fullName>BRA-Brazil</fullName>
-                <default>false</default>
-                <label>BRA-Brazil</label>
             </value>
             <value>
                 <fullName>BRC-Argentina</fullName>
@@ -312,129 +81,9 @@
                 <label>BRC-Argentina</label>
             </value>
             <value>
-                <fullName>BRM-Venezuela</fullName>
-                <default>false</default>
-                <label>BRM-Venezuela</label>
-            </value>
-            <value>
                 <fullName>BSB-Brazil</fullName>
                 <default>false</default>
                 <label>BSB-Brazil</label>
-            </value>
-            <value>
-                <fullName>BVB-Brazil</fullName>
-                <default>false</default>
-                <label>BVB-Brazil</label>
-            </value>
-            <value>
-                <fullName>BVH-Brazil</fullName>
-                <default>false</default>
-                <label>BVH-Brazil</label>
-            </value>
-            <value>
-                <fullName>BVS-Brazil</fullName>
-                <default>false</default>
-                <label>BVS-Brazil</label>
-            </value>
-            <value>
-                <fullName>BWW-Cuba</fullName>
-                <default>false</default>
-                <label>BWW-Cuba</label>
-            </value>
-            <value>
-                <fullName>BYC-Bolivia</fullName>
-                <default>false</default>
-                <label>BYC-Bolivia</label>
-            </value>
-            <value>
-                <fullName>BYM-Cuba</fullName>
-                <default>false</default>
-                <label>BYM-Cuba</label>
-            </value>
-            <value>
-                <fullName>BYO-Brazil</fullName>
-                <default>false</default>
-                <label>BYO-Brazil</label>
-            </value>
-            <value>
-                <fullName>BZA-Nicaragua</fullName>
-                <default>false</default>
-                <label>BZA-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>BZC-Brazil</fullName>
-                <default>false</default>
-                <label>BZC-Brazil</label>
-            </value>
-            <value>
-                <fullName>CAC-Brazil</fullName>
-                <default>false</default>
-                <label>CAC-Brazil</label>
-            </value>
-            <value>
-                <fullName>CAF-Brazil</fullName>
-                <default>false</default>
-                <label>CAF-Brazil</label>
-            </value>
-            <value>
-                <fullName>CAJ-Venezuela</fullName>
-                <default>false</default>
-                <label>CAJ-Venezuela</label>
-            </value>
-            <value>
-                <fullName>CAP-Haiti</fullName>
-                <default>false</default>
-                <label>CAP-Haiti</label>
-            </value>
-            <value>
-                <fullName>CAU-Brazil</fullName>
-                <default>false</default>
-                <label>CAU-Brazil</label>
-            </value>
-            <value>
-                <fullName>CAW-Brazil</fullName>
-                <default>false</default>
-                <label>CAW-Brazil</label>
-            </value>
-            <value>
-                <fullName>CBB-Bolivia</fullName>
-                <default>false</default>
-                <label>CBB-Bolivia</label>
-            </value>
-            <value>
-                <fullName>CBL-Venezuela</fullName>
-                <default>false</default>
-                <label>CBL-Venezuela</label>
-            </value>
-            <value>
-                <fullName>CBV-Guatemala</fullName>
-                <default>false</default>
-                <label>CBV-Guatemala</label>
-            </value>
-            <value>
-                <fullName>CCA-Bolivia</fullName>
-                <default>false</default>
-                <label>CCA-Bolivia</label>
-            </value>
-            <value>
-                <fullName>CCC-Cuba</fullName>
-                <default>false</default>
-                <label>CCC-Cuba</label>
-            </value>
-            <value>
-                <fullName>CCH-Chile</fullName>
-                <default>false</default>
-                <label>CCH-Chile</label>
-            </value>
-            <value>
-                <fullName>CCI-Brazil</fullName>
-                <default>false</default>
-                <label>CCI-Brazil</label>
-            </value>
-            <value>
-                <fullName>CCM-Brazil</fullName>
-                <default>false</default>
-                <label>CCM-Brazil</label>
             </value>
             <value>
                 <fullName>CCP-Chile</fullName>
@@ -447,44 +96,9 @@
                 <label>CCS-Venezuela</label>
             </value>
             <value>
-                <fullName>CCX-Brazil</fullName>
-                <default>false</default>
-                <label>CCX-Brazil</label>
-            </value>
-            <value>
-                <fullName>CDJ-Brazil</fullName>
-                <default>false</default>
-                <label>CDJ-Brazil</label>
-            </value>
-            <value>
-                <fullName>CEN-Mexico</fullName>
-                <default>false</default>
-                <label>CEN-Mexico</label>
-            </value>
-            <value>
                 <fullName>CFB-Brazil</fullName>
                 <default>false</default>
                 <label>CFB-Brazil</label>
-            </value>
-            <value>
-                <fullName>CFC-Brazil</fullName>
-                <default>false</default>
-                <label>CFC-Brazil</label>
-            </value>
-            <value>
-                <fullName>CFG-Cuba</fullName>
-                <default>false</default>
-                <label>CFG-Cuba</label>
-            </value>
-            <value>
-                <fullName>CFO-Brazil</fullName>
-                <default>false</default>
-                <label>CFO-Brazil</label>
-            </value>
-            <value>
-                <fullName>CGB-Brazil</fullName>
-                <default>false</default>
-                <label>CGB-Brazil</label>
             </value>
             <value>
                 <fullName>CGH-Brazil</fullName>
@@ -497,119 +111,14 @@
                 <label>CGR-Brazil</label>
             </value>
             <value>
-                <fullName>CHH-Peru</fullName>
-                <default>false</default>
-                <label>CHH-Peru</label>
-            </value>
-            <value>
-                <fullName>CHM-Peru</fullName>
-                <default>false</default>
-                <label>CHM-Peru</label>
-            </value>
-            <value>
-                <fullName>CHX-Panama</fullName>
-                <default>false</default>
-                <label>CHX-Panama</label>
-            </value>
-            <value>
-                <fullName>CIJ-Bolivia</fullName>
-                <default>false</default>
-                <label>CIJ-Bolivia</label>
-            </value>
-            <value>
-                <fullName>CIO-Paraguay</fullName>
-                <default>false</default>
-                <label>CIO-Paraguay</label>
-            </value>
-            <value>
-                <fullName>CIX-Peru</fullName>
-                <default>false</default>
-                <label>CIX-Peru</label>
-            </value>
-            <value>
-                <fullName>CIZ-Brazil</fullName>
-                <default>false</default>
-                <label>CIZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>CJA-Peru</fullName>
-                <default>false</default>
-                <label>CJA-Peru</label>
-            </value>
-            <value>
                 <fullName>CJC-Chile</fullName>
                 <default>false</default>
                 <label>CJC-Chile</label>
             </value>
             <value>
-                <fullName>CJS-Mexico</fullName>
-                <default>false</default>
-                <label>CJS-Mexico</label>
-            </value>
-            <value>
-                <fullName>CKS-Brazil</fullName>
-                <default>false</default>
-                <label>CKS-Brazil</label>
-            </value>
-            <value>
-                <fullName>CLN-Brazil</fullName>
-                <default>false</default>
-                <label>CLN-Brazil</label>
-            </value>
-            <value>
-                <fullName>CLQ-Mexico</fullName>
-                <default>false</default>
-                <label>CLQ-Mexico</label>
-            </value>
-            <value>
-                <fullName>CLV-Brazil</fullName>
-                <default>false</default>
-                <label>CLV-Brazil</label>
-            </value>
-            <value>
-                <fullName>CLZ-Venezuela</fullName>
-                <default>false</default>
-                <label>CLZ-Venezuela</label>
-            </value>
-            <value>
-                <fullName>CME-Mexico</fullName>
-                <default>false</default>
-                <label>CME-Mexico</label>
-            </value>
-            <value>
-                <fullName>CMG-Brazil</fullName>
-                <default>false</default>
-                <label>CMG-Brazil</label>
-            </value>
-            <value>
-                <fullName>CMP-Brazil</fullName>
-                <default>false</default>
-                <label>CMP-Brazil</label>
-            </value>
-            <value>
-                <fullName>CMW-Cuba</fullName>
-                <default>false</default>
-                <label>CMW-Cuba</label>
-            </value>
-            <value>
                 <fullName>CNF-Brazil</fullName>
                 <default>false</default>
                 <label>CNF-Brazil</label>
-            </value>
-            <value>
-                <fullName>CNQ-Argentina</fullName>
-                <default>false</default>
-                <label>CNQ-Argentina</label>
-            </value>
-            <value>
-                <fullName>CNR-Chile</fullName>
-                <default>false</default>
-                <label>CNR-Chile</label>
-            </value>
-            <value>
-                <fullName>COC-Argentina</fullName>
-                <default>false</default>
-                <label>COC-Argentina</label>
             </value>
             <value>
                 <fullName>COR-Argentina</fullName>
@@ -622,119 +131,9 @@
                 <label>CPC-Argentina</label>
             </value>
             <value>
-                <fullName>CPE-Mexico</fullName>
-                <default>false</default>
-                <label>CPE-Mexico</label>
-            </value>
-            <value>
-                <fullName>CPO-Chile</fullName>
-                <default>false</default>
-                <label>CPO-Chile</label>
-            </value>
-            <value>
-                <fullName>CPQ-Brazil</fullName>
-                <default>false</default>
-                <label>CPQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>CPV-Brazil</fullName>
-                <default>false</default>
-                <label>CPV-Brazil</label>
-            </value>
-            <value>
-                <fullName>CQA-Brazil</fullName>
-                <default>false</default>
-                <label>CQA-Brazil</label>
-            </value>
-            <value>
-                <fullName>CQS-Brazil</fullName>
-                <default>false</default>
-                <label>CQS-Brazil</label>
-            </value>
-            <value>
-                <fullName>CRD-Argentina</fullName>
-                <default>false</default>
-                <label>CRD-Argentina</label>
-            </value>
-            <value>
-                <fullName>CRQ-Brazil</fullName>
-                <default>false</default>
-                <label>CRQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>CSZ-Argentina</fullName>
-                <default>false</default>
-                <label>CSZ-Argentina</label>
-            </value>
-            <value>
-                <fullName>CTC-Argentina</fullName>
-                <default>false</default>
-                <label>CTC-Argentina</label>
-            </value>
-            <value>
-                <fullName>CTD-Panama</fullName>
-                <default>false</default>
-                <label>CTD-Panama</label>
-            </value>
-            <value>
-                <fullName>CTM-Mexico</fullName>
-                <default>false</default>
-                <label>CTM-Mexico</label>
-            </value>
-            <value>
-                <fullName>CUA-Mexico</fullName>
-                <default>false</default>
-                <label>CUA-Mexico</label>
-            </value>
-            <value>
-                <fullName>CUE-Ecuador</fullName>
-                <default>false</default>
-                <label>CUE-Ecuador</label>
-            </value>
-            <value>
-                <fullName>CUL-Mexico</fullName>
-                <default>false</default>
-                <label>CUL-Mexico</label>
-            </value>
-            <value>
-                <fullName>CUM-Venezuela</fullName>
-                <default>false</default>
-                <label>CUM-Venezuela</label>
-            </value>
-            <value>
                 <fullName>CUN-Mexico</fullName>
                 <default>false</default>
                 <label>CUN-Mexico</label>
-            </value>
-            <value>
-                <fullName>CUP-Venezuela</fullName>
-                <default>false</default>
-                <label>CUP-Venezuela</label>
-            </value>
-            <value>
-                <fullName>CUT-Argentina</fullName>
-                <default>false</default>
-                <label>CUT-Argentina</label>
-            </value>
-            <value>
-                <fullName>CUU-Mexico</fullName>
-                <default>false</default>
-                <label>CUU-Mexico</label>
-            </value>
-            <value>
-                <fullName>CUZ-Peru</fullName>
-                <default>false</default>
-                <label>CUZ-Peru</label>
-            </value>
-            <value>
-                <fullName>CVJ-Mexico</fullName>
-                <default>false</default>
-                <label>CVJ-Mexico</label>
-            </value>
-            <value>
-                <fullName>CVM-Mexico</fullName>
-                <default>false</default>
-                <label>CVM-Mexico</label>
             </value>
             <value>
                 <fullName>CWB-Brazil</fullName>
@@ -742,44 +141,9 @@
                 <label>CWB-Brazil</label>
             </value>
             <value>
-                <fullName>CXA-Venezuela</fullName>
-                <default>false</default>
-                <label>CXA-Venezuela</label>
-            </value>
-            <value>
-                <fullName>CXJ-Brazil</fullName>
-                <default>false</default>
-                <label>CXJ-Brazil</label>
-            </value>
-            <value>
-                <fullName>CYA-Haiti</fullName>
-                <default>false</default>
-                <label>CYA-Haiti</label>
-            </value>
-            <value>
                 <fullName>CYO-Cuba</fullName>
                 <default>false</default>
                 <label>CYO-Cuba</label>
-            </value>
-            <value>
-                <fullName>CYR-Uruguay</fullName>
-                <default>false</default>
-                <label>CYR-Uruguay</label>
-            </value>
-            <value>
-                <fullName>CYW-Mexico</fullName>
-                <default>false</default>
-                <label>CYW-Mexico</label>
-            </value>
-            <value>
-                <fullName>CZA-Mexico</fullName>
-                <default>false</default>
-                <label>CZA-Mexico</label>
-            </value>
-            <value>
-                <fullName>CZE-Venezuela</fullName>
-                <default>false</default>
-                <label>CZE-Venezuela</label>
             </value>
             <value>
                 <fullName>CZM-Mexico</fullName>
@@ -787,79 +151,9 @@
                 <label>CZM-Mexico</label>
             </value>
             <value>
-                <fullName>CZS-Brazil</fullName>
-                <default>false</default>
-                <label>CZS-Brazil</label>
-            </value>
-            <value>
-                <fullName>DAV-Panama</fullName>
-                <default>false</default>
-                <label>DAV-Panama</label>
-            </value>
-            <value>
-                <fullName>DGO-Mexico</fullName>
-                <default>false</default>
-                <label>DGO-Mexico</label>
-            </value>
-            <value>
-                <fullName>DIQ-Brazil</fullName>
-                <default>false</default>
-                <label>DIQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>DMT-Brazil</fullName>
-                <default>false</default>
-                <label>DMT-Brazil</label>
-            </value>
-            <value>
-                <fullName>DOU-Brazil</fullName>
-                <default>false</default>
-                <label>DOU-Brazil</label>
-            </value>
-            <value>
-                <fullName>DRK-Costa Rica</fullName>
-                <default>false</default>
-                <label>DRK-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>DTI-Brazil</fullName>
-                <default>false</default>
-                <label>DTI-Brazil</label>
-            </value>
-            <value>
                 <fullName>DZO-Uruguay</fullName>
                 <default>false</default>
                 <label>DZO-Uruguay</label>
-            </value>
-            <value>
-                <fullName>ECI-Nicaragua</fullName>
-                <default>false</default>
-                <label>ECI-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>EHL-Argentina</fullName>
-                <default>false</default>
-                <label>EHL-Argentina</label>
-            </value>
-            <value>
-                <fullName>ELO-Argentina</fullName>
-                <default>false</default>
-                <label>ELO-Argentina</label>
-            </value>
-            <value>
-                <fullName>ENO-Paraguay</fullName>
-                <default>false</default>
-                <label>ENO-Paraguay</label>
-            </value>
-            <value>
-                <fullName>EOR-Venezuela</fullName>
-                <default>false</default>
-                <label>EOR-Venezuela</label>
-            </value>
-            <value>
-                <fullName>EOZ-Venezuela</fullName>
-                <default>false</default>
-                <label>EOZ-Venezuela</label>
             </value>
             <value>
                 <fullName>EPA-Argentina</fullName>
@@ -867,79 +161,9 @@
                 <label>EPA-Argentina</label>
             </value>
             <value>
-                <fullName>EQS-Argentina</fullName>
-                <default>false</default>
-                <label>EQS-Argentina</label>
-            </value>
-            <value>
-                <fullName>ERM-Brazil</fullName>
-                <default>false</default>
-                <label>ERM-Brazil</label>
-            </value>
-            <value>
-                <fullName>ERN-Brazil</fullName>
-                <default>false</default>
-                <label>ERN-Brazil</label>
-            </value>
-            <value>
-                <fullName>ESE-Mexico</fullName>
-                <default>false</default>
-                <label>ESE-Mexico</label>
-            </value>
-            <value>
-                <fullName>ESG-Paraguay</fullName>
-                <default>false</default>
-                <label>ESG-Paraguay</label>
-            </value>
-            <value>
-                <fullName>ESM-Ecuador</fullName>
-                <default>false</default>
-                <label>ESM-Ecuador</label>
-            </value>
-            <value>
-                <fullName>ESR-Chile</fullName>
-                <default>false</default>
-                <label>ESR-Chile</label>
-            </value>
-            <value>
-                <fullName>ETR-Ecuador</fullName>
-                <default>false</default>
-                <label>ETR-Ecuador</label>
-            </value>
-            <value>
                 <fullName>EZE-Argentina</fullName>
                 <default>false</default>
                 <label>EZE-Argentina</label>
-            </value>
-            <value>
-                <fullName>FBA-Brazil</fullName>
-                <default>false</default>
-                <label>FBA-Brazil</label>
-            </value>
-            <value>
-                <fullName>FBE-Brazil</fullName>
-                <default>false</default>
-                <label>FBE-Brazil</label>
-            </value>
-            <value>
-                <fullName>FDO-Argentina</fullName>
-                <default>false</default>
-                <label>FDO-Argentina</label>
-            </value>
-            <value>
-                <fullName>FEN-Brazil</fullName>
-                <default>false</default>
-                <label>FEN-Brazil</label>
-            </value>
-            <value>
-                <fullName>FFU-Chile</fullName>
-                <default>false</default>
-                <label>FFU-Chile</label>
-            </value>
-            <value>
-                <fullName>FLB-Brazil</fullName>
-                <default>false</default>
-                <label>FLB-Brazil</label>
             </value>
             <value>
                 <fullName>FLN-Brazil</fullName>
@@ -947,39 +171,9 @@
                 <label>FLN-Brazil</label>
             </value>
             <value>
-                <fullName>FMA-Argentina</fullName>
-                <default>false</default>
-                <label>FMA-Argentina</label>
-            </value>
-            <value>
-                <fullName>FON-Costa Rica</fullName>
-                <default>false</default>
-                <label>FON-Costa Rica</label>
-            </value>
-            <value>
                 <fullName>FOR-Brazil</fullName>
                 <default>false</default>
                 <label>FOR-Brazil</label>
-            </value>
-            <value>
-                <fullName>FRC-Brazil</fullName>
-                <default>false</default>
-                <label>FRC-Brazil</label>
-            </value>
-            <value>
-                <fullName>FRS-Guatemala</fullName>
-                <default>false</default>
-                <label>FRS-Guatemala</label>
-            </value>
-            <value>
-                <fullName>FTE-Argentina</fullName>
-                <default>false</default>
-                <label>FTE-Argentina</label>
-            </value>
-            <value>
-                <fullName>GAO-Cuba</fullName>
-                <default>false</default>
-                <label>GAO-Cuba</label>
             </value>
             <value>
                 <fullName>GDL-Mexico</fullName>
@@ -987,84 +181,9 @@
                 <label>GDL-Mexico</label>
             </value>
             <value>
-                <fullName>GDO-Venezuela</fullName>
-                <default>false</default>
-                <label>GDO-Venezuela</label>
-            </value>
-            <value>
-                <fullName>GEL-Brazil</fullName>
-                <default>false</default>
-                <label>GEL-Brazil</label>
-            </value>
-            <value>
-                <fullName>GER-Cuba</fullName>
-                <default>false</default>
-                <label>GER-Cuba</label>
-            </value>
-            <value>
-                <fullName>GGS-Argentina</fullName>
-                <default>false</default>
-                <label>GGS-Argentina</label>
-            </value>
-            <value>
-                <fullName>GHU-Argentina</fullName>
-                <default>false</default>
-                <label>GHU-Argentina</label>
-            </value>
-            <value>
                 <fullName>GIG-Brazil</fullName>
                 <default>false</default>
                 <label>GIG-Brazil</label>
-            </value>
-            <value>
-                <fullName>GJA-Honduras</fullName>
-                <default>false</default>
-                <label>GJA-Honduras</label>
-            </value>
-            <value>
-                <fullName>GJM-Brazil</fullName>
-                <default>false</default>
-                <label>GJM-Brazil</label>
-            </value>
-            <value>
-                <fullName>GLF-Costa Rica</fullName>
-                <default>false</default>
-                <label>GLF-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>GNM-Brazil</fullName>
-                <default>false</default>
-                <label>GNM-Brazil</label>
-            </value>
-            <value>
-                <fullName>GNR-Argentina</fullName>
-                <default>false</default>
-                <label>GNR-Argentina</label>
-            </value>
-            <value>
-                <fullName>GPB-Brazil</fullName>
-                <default>false</default>
-                <label>GPB-Brazil</label>
-            </value>
-            <value>
-                <fullName>GPL-Costa Rica</fullName>
-                <default>false</default>
-                <label>GPL-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>GPO-Argentina</fullName>
-                <default>false</default>
-                <label>GPO-Argentina</label>
-            </value>
-            <value>
-                <fullName>GPS-Ecuador</fullName>
-                <default>false</default>
-                <label>GPS-Ecuador</label>
-            </value>
-            <value>
-                <fullName>GRP-Brazil</fullName>
-                <default>false</default>
-                <label>GRP-Brazil</label>
             </value>
             <value>
                 <fullName>GRU-Brazil</fullName>
@@ -1072,54 +191,9 @@
                 <label>GRU-Brazil</label>
             </value>
             <value>
-                <fullName>GSJ-Guatemala</fullName>
-                <default>false</default>
-                <label>GSJ-Guatemala</label>
-            </value>
-            <value>
                 <fullName>GUA-Guatemala</fullName>
                 <default>false</default>
                 <label>GUA-Guatemala</label>
-            </value>
-            <value>
-                <fullName>GUB-Mexico</fullName>
-                <default>false</default>
-                <label>GUB-Mexico</label>
-            </value>
-            <value>
-                <fullName>GUI-Venezuela</fullName>
-                <default>false</default>
-                <label>GUI-Venezuela</label>
-            </value>
-            <value>
-                <fullName>GUJ-Brazil</fullName>
-                <default>false</default>
-                <label>GUJ-Brazil</label>
-            </value>
-            <value>
-                <fullName>GUQ-Venezuela</fullName>
-                <default>false</default>
-                <label>GUQ-Venezuela</label>
-            </value>
-            <value>
-                <fullName>GUZ-Brazil</fullName>
-                <default>false</default>
-                <label>GUZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>GVR-Brazil</fullName>
-                <default>false</default>
-                <label>GVR-Brazil</label>
-            </value>
-            <value>
-                <fullName>GXQ-Chile</fullName>
-                <default>false</default>
-                <label>GXQ-Chile</label>
-            </value>
-            <value>
-                <fullName>GYA-Bolivia</fullName>
-                <default>false</default>
-                <label>GYA-Bolivia</label>
             </value>
             <value>
                 <fullName>GYE-Ecuador</fullName>
@@ -1127,74 +201,14 @@
                 <label>GYE-Ecuador</label>
             </value>
             <value>
-                <fullName>GYM-Mexico</fullName>
-                <default>false</default>
-                <label>GYM-Mexico</label>
-            </value>
-            <value>
-                <fullName>GYN-Brazil</fullName>
-                <default>false</default>
-                <label>GYN-Brazil</label>
-            </value>
-            <value>
                 <fullName>HAV-Cuba</fullName>
                 <default>false</default>
                 <label>HAV-Cuba</label>
             </value>
             <value>
-                <fullName>HGE-Venezuela</fullName>
-                <default>false</default>
-                <label>HGE-Venezuela</label>
-            </value>
-            <value>
-                <fullName>HMO-Mexico</fullName>
-                <default>false</default>
-                <label>HMO-Mexico</label>
-            </value>
-            <value>
                 <fullName>HOG-Cuba</fullName>
                 <default>false</default>
                 <label>HOG-Cuba</label>
-            </value>
-            <value>
-                <fullName>HOS-Argentina</fullName>
-                <default>false</default>
-                <label>HOS-Argentina</label>
-            </value>
-            <value>
-                <fullName>HUU-Peru</fullName>
-                <default>false</default>
-                <label>HUU-Peru</label>
-            </value>
-            <value>
-                <fullName>HUW-Brazil</fullName>
-                <default>false</default>
-                <label>HUW-Brazil</label>
-            </value>
-            <value>
-                <fullName>HUX-Mexico</fullName>
-                <default>false</default>
-                <label>HUX-Mexico</label>
-            </value>
-            <value>
-                <fullName>IBB-Ecuador</fullName>
-                <default>false</default>
-                <label>IBB-Ecuador</label>
-            </value>
-            <value>
-                <fullName>IBP-Peru</fullName>
-                <default>false</default>
-                <label>IBP-Peru</label>
-            </value>
-            <value>
-                <fullName>ICC-Venezuela</fullName>
-                <default>false</default>
-                <label>ICC-Venezuela</label>
-            </value>
-            <value>
-                <fullName>IGB-Argentina</fullName>
-                <default>false</default>
-                <label>IGB-Argentina</label>
             </value>
             <value>
                 <fullName>IGR-Argentina</fullName>
@@ -1207,36 +221,6 @@
                 <label>IGU-Brazil</label>
             </value>
             <value>
-                <fullName>ILQ-Peru</fullName>
-                <default>false</default>
-                <label>ILQ-Peru</label>
-            </value>
-            <value>
-                <fullName>IMP-Brazil</fullName>
-                <default>false</default>
-                <label>IMP-Brazil</label>
-            </value>
-            <value>
-                <fullName>ING-Argentina</fullName>
-                <default>false</default>
-                <label>ING-Argentina</label>
-            </value>
-            <value>
-                <fullName>IOS-Brazil</fullName>
-                <default>false</default>
-                <label>IOS-Brazil</label>
-            </value>
-            <value>
-                <fullName>IPC-Chile</fullName>
-                <default>false</default>
-                <label>IPC-Chile</label>
-            </value>
-            <value>
-                <fullName>IPN-Brazil</fullName>
-                <default>false</default>
-                <label>IPN-Brazil</label>
-            </value>
-            <value>
                 <fullName>IQQ-Chile</fullName>
                 <default>false</default>
                 <label>IQQ-Chile</label>
@@ -1247,229 +231,9 @@
                 <label>IQT-Peru</label>
             </value>
             <value>
-                <fullName>IRJ-Argentina</fullName>
-                <default>false</default>
-                <label>IRJ-Argentina</label>
-            </value>
-            <value>
-                <fullName>IRZ-Brazil</fullName>
-                <default>false</default>
-                <label>IRZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>ISJ-Mexico</fullName>
-                <default>false</default>
-                <label>ISJ-Mexico</label>
-            </value>
-            <value>
-                <fullName>ITA-Brazil</fullName>
-                <default>false</default>
-                <label>ITA-Brazil</label>
-            </value>
-            <value>
-                <fullName>ITB-Brazil</fullName>
-                <default>false</default>
-                <label>ITB-Brazil</label>
-            </value>
-            <value>
-                <fullName>ITP-Brazil</fullName>
-                <default>false</default>
-                <label>ITP-Brazil</label>
-            </value>
-            <value>
-                <fullName>ITR-Brazil</fullName>
-                <default>false</default>
-                <label>ITR-Brazil</label>
-            </value>
-            <value>
-                <fullName>IZA-Brazil</fullName>
-                <default>false</default>
-                <label>IZA-Brazil</label>
-            </value>
-            <value>
-                <fullName>IZT-Mexico</fullName>
-                <default>false</default>
-                <label>IZT-Mexico</label>
-            </value>
-            <value>
-                <fullName>JAE-Peru</fullName>
-                <default>false</default>
-                <label>JAE-Peru</label>
-            </value>
-            <value>
-                <fullName>JAK-Haiti</fullName>
-                <default>false</default>
-                <label>JAK-Haiti</label>
-            </value>
-            <value>
-                <fullName>JAL-Mexico</fullName>
-                <default>false</default>
-                <label>JAL-Mexico</label>
-            </value>
-            <value>
-                <fullName>JAP-Costa Rica</fullName>
-                <default>false</default>
-                <label>JAP-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>JAU-Peru</fullName>
-                <default>false</default>
-                <label>JAU-Peru</label>
-            </value>
-            <value>
-                <fullName>JCB-Brazil</fullName>
-                <default>false</default>
-                <label>JCB-Brazil</label>
-            </value>
-            <value>
-                <fullName>JCR-Brazil</fullName>
-                <default>false</default>
-                <label>JCR-Brazil</label>
-            </value>
-            <value>
-                <fullName>JDF-Brazil</fullName>
-                <default>false</default>
-                <label>JDF-Brazil</label>
-            </value>
-            <value>
-                <fullName>JDO-Brazil</fullName>
-                <default>false</default>
-                <label>JDO-Brazil</label>
-            </value>
-            <value>
-                <fullName>JEE-Haiti</fullName>
-                <default>false</default>
-                <label>JEE-Haiti</label>
-            </value>
-            <value>
-                <fullName>JIA-Brazil</fullName>
-                <default>false</default>
-                <label>JIA-Brazil</label>
-            </value>
-            <value>
-                <fullName>JJG-Brazil</fullName>
-                <default>false</default>
-                <label>JJG-Brazil</label>
-            </value>
-            <value>
-                <fullName>JJI-Peru</fullName>
-                <default>false</default>
-                <label>JJI-Peru</label>
-            </value>
-            <value>
-                <fullName>JNI-Argentina</fullName>
-                <default>false</default>
-                <label>JNI-Argentina</label>
-            </value>
-            <value>
-                <fullName>JOI-Brazil</fullName>
-                <default>false</default>
-                <label>JOI-Brazil</label>
-            </value>
-            <value>
-                <fullName>JPA-Brazil</fullName>
-                <default>false</default>
-                <label>JPA-Brazil</label>
-            </value>
-            <value>
-                <fullName>JPR-Brazil</fullName>
-                <default>false</default>
-                <label>JPR-Brazil</label>
-            </value>
-            <value>
-                <fullName>JQE-Panama</fullName>
-                <default>false</default>
-                <label>JQE-Panama</label>
-            </value>
-            <value>
-                <fullName>JRN-Brazil</fullName>
-                <default>false</default>
-                <label>JRN-Brazil</label>
-            </value>
-            <value>
-                <fullName>JSM-Argentina</fullName>
-                <default>false</default>
-                <label>JSM-Argentina</label>
-            </value>
-            <value>
-                <fullName>JTC-Brazil</fullName>
-                <default>false</default>
-                <label>JTC-Brazil</label>
-            </value>
-            <value>
-                <fullName>JUA-Brazil</fullName>
-                <default>false</default>
-                <label>JUA-Brazil</label>
-            </value>
-            <value>
-                <fullName>JUJ-Argentina</fullName>
-                <default>false</default>
-                <label>JUJ-Argentina</label>
-            </value>
-            <value>
-                <fullName>JUL-Peru</fullName>
-                <default>false</default>
-                <label>JUL-Peru</label>
-            </value>
-            <value>
-                <fullName>KNA-Chile</fullName>
-                <default>false</default>
-                <label>KNA-Chile</label>
-            </value>
-            <value>
-                <fullName>LAJ-Brazil</fullName>
-                <default>false</default>
-                <label>LAJ-Brazil</label>
-            </value>
-            <value>
                 <fullName>LAP-Mexico</fullName>
                 <default>false</default>
                 <label>LAP-Mexico</label>
-            </value>
-            <value>
-                <fullName>LAZ-Brazil</fullName>
-                <default>false</default>
-                <label>LAZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>LBR-Brazil</fullName>
-                <default>false</default>
-                <label>LBR-Brazil</label>
-            </value>
-            <value>
-                <fullName>LCE-Honduras</fullName>
-                <default>false</default>
-                <label>LCE-Honduras</label>
-            </value>
-            <value>
-                <fullName>LCL-Cuba</fullName>
-                <default>false</default>
-                <label>LCL-Cuba</label>
-            </value>
-            <value>
-                <fullName>LDB-Brazil</fullName>
-                <default>false</default>
-                <label>LDB-Brazil</label>
-            </value>
-            <value>
-                <fullName>LEC-Brazil</fullName>
-                <default>false</default>
-                <label>LEC-Brazil</label>
-            </value>
-            <value>
-                <fullName>LFR-Venezuela</fullName>
-                <default>false</default>
-                <label>LFR-Venezuela</label>
-            </value>
-            <value>
-                <fullName>LGS-Argentina</fullName>
-                <default>false</default>
-                <label>LGS-Argentina</label>
-            </value>
-            <value>
-                <fullName>LHS-Argentina</fullName>
-                <default>false</default>
-                <label>LHS-Argentina</label>
             </value>
             <value>
                 <fullName>LIM-Peru</fullName>
@@ -1477,29 +241,9 @@
                 <label>LIM-Peru</label>
             </value>
             <value>
-                <fullName>LIO-Costa Rica</fullName>
-                <default>false</default>
-                <label>LIO-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>LIP-Brazil</fullName>
-                <default>false</default>
-                <label>LIP-Brazil</label>
-            </value>
-            <value>
                 <fullName>LIR-Costa Rica</fullName>
                 <default>false</default>
                 <label>LIR-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>LMM-Mexico</fullName>
-                <default>false</default>
-                <label>LMM-Mexico</label>
-            </value>
-            <value>
-                <fullName>LOH-Ecuador</fullName>
-                <default>false</default>
-                <label>LOH-Ecuador</label>
             </value>
             <value>
                 <fullName>LOV-Mexico</fullName>
@@ -1512,36 +256,6 @@
                 <label>LPB-Bolivia</label>
             </value>
             <value>
-                <fullName>LPG-Argentina</fullName>
-                <default>false</default>
-                <label>LPG-Argentina</label>
-            </value>
-            <value>
-                <fullName>LRV-Venezuela</fullName>
-                <default>false</default>
-                <label>LRV-Venezuela</label>
-            </value>
-            <value>
-                <fullName>LSC-Chile</fullName>
-                <default>false</default>
-                <label>LSC-Chile</label>
-            </value>
-            <value>
-                <fullName>LSL-Costa Rica</fullName>
-                <default>false</default>
-                <label>LSL-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>LSP-Venezuela</fullName>
-                <default>false</default>
-                <label>LSP-Venezuela</label>
-            </value>
-            <value>
-                <fullName>LSQ-Chile</fullName>
-                <default>false</default>
-                <label>LSQ-Chile</label>
-            </value>
-            <value>
                 <fullName>LTO-Mexico</fullName>
                 <default>false</default>
                 <label>LTO-Mexico</label>
@@ -1550,26 +264,6 @@
                 <fullName>LTX-Ecuador</fullName>
                 <default>false</default>
                 <label>LTX-Ecuador</label>
-            </value>
-            <value>
-                <fullName>LUQ-Argentina</fullName>
-                <default>false</default>
-                <label>LUQ-Argentina</label>
-            </value>
-            <value>
-                <fullName>LZC-Mexico</fullName>
-                <default>false</default>
-                <label>LZC-Mexico</label>
-            </value>
-            <value>
-                <fullName>MAB-Brazil</fullName>
-                <default>false</default>
-                <label>MAB-Brazil</label>
-            </value>
-            <value>
-                <fullName>MAM-Mexico</fullName>
-                <default>false</default>
-                <label>MAM-Mexico</label>
             </value>
             <value>
                 <fullName>MAO-Brazil</fullName>
@@ -1582,54 +276,14 @@
                 <label>MAR-Venezuela</label>
             </value>
             <value>
-                <fullName>MBZ-Brazil</fullName>
-                <default>false</default>
-                <label>MBZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>MCH-Ecuador</fullName>
-                <default>false</default>
-                <label>MCH-Ecuador</label>
-            </value>
-            <value>
-                <fullName>MCP-Brazil</fullName>
-                <default>false</default>
-                <label>MCP-Brazil</label>
-            </value>
-            <value>
-                <fullName>MCS-Argentina</fullName>
-                <default>false</default>
-                <label>MCS-Argentina</label>
-            </value>
-            <value>
                 <fullName>MCZ-Brazil</fullName>
                 <default>false</default>
                 <label>MCZ-Brazil</label>
             </value>
             <value>
-                <fullName>MDQ-Argentina</fullName>
-                <default>false</default>
-                <label>MDQ-Argentina</label>
-            </value>
-            <value>
                 <fullName>MDZ-Argentina</fullName>
                 <default>false</default>
                 <label>MDZ-Argentina</label>
-            </value>
-            <value>
-                <fullName>MEA-Brazil</fullName>
-                <default>false</default>
-                <label>MEA-Brazil</label>
-            </value>
-            <value>
-                <fullName>MEC-Ecuador</fullName>
-                <default>false</default>
-                <label>MEC-Ecuador</label>
-            </value>
-            <value>
-                <fullName>MEU-Brazil</fullName>
-                <default>false</default>
-                <label>MEU-Brazil</label>
             </value>
             <value>
                 <fullName>MEX-Mexico</fullName>
@@ -1640,76 +294,6 @@
                 <fullName>MGA-Nicaragua</fullName>
                 <default>false</default>
                 <label>MGA-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>MGF-Brazil</fullName>
-                <default>false</default>
-                <label>MGF-Brazil</label>
-            </value>
-            <value>
-                <fullName>MHC-Chile</fullName>
-                <default>false</default>
-                <label>MHC-Chile</label>
-            </value>
-            <value>
-                <fullName>MID-Mexico</fullName>
-                <default>false</default>
-                <label>MID-Mexico</label>
-            </value>
-            <value>
-                <fullName>MII-Brazil</fullName>
-                <default>false</default>
-                <label>MII-Brazil</label>
-            </value>
-            <value>
-                <fullName>MLM-Mexico</fullName>
-                <default>false</default>
-                <label>MLM-Mexico</label>
-            </value>
-            <value>
-                <fullName>MLZ-Uruguay</fullName>
-                <default>false</default>
-                <label>MLZ-Uruguay</label>
-            </value>
-            <value>
-                <fullName>MNX-Brazil</fullName>
-                <default>false</default>
-                <label>MNX-Brazil</label>
-            </value>
-            <value>
-                <fullName>MOA-Cuba</fullName>
-                <default>false</default>
-                <label>MOA-Cuba</label>
-            </value>
-            <value>
-                <fullName>MOC-Brazil</fullName>
-                <default>false</default>
-                <label>MOC-Brazil</label>
-            </value>
-            <value>
-                <fullName>MQH-Brazil</fullName>
-                <default>false</default>
-                <label>MQH-Brazil</label>
-            </value>
-            <value>
-                <fullName>MRD-Venezuela</fullName>
-                <default>false</default>
-                <label>MRD-Venezuela</label>
-            </value>
-            <value>
-                <fullName>MRR-Ecuador</fullName>
-                <default>false</default>
-                <label>MRR-Ecuador</label>
-            </value>
-            <value>
-                <fullName>MTG-Brazil</fullName>
-                <default>false</default>
-                <label>MTG-Brazil</label>
-            </value>
-            <value>
-                <fullName>MTT-Mexico</fullName>
-                <default>false</default>
-                <label>MTT-Mexico</label>
             </value>
             <value>
                 <fullName>MTY-Mexico</fullName>
@@ -1727,84 +311,9 @@
                 <label>MVD-Uruguay</label>
             </value>
             <value>
-                <fullName>MVF-Brazil</fullName>
-                <default>false</default>
-                <label>MVF-Brazil</label>
-            </value>
-            <value>
-                <fullName>MVS-Brazil</fullName>
-                <default>false</default>
-                <label>MVS-Brazil</label>
-            </value>
-            <value>
-                <fullName>MXL-Mexico</fullName>
-                <default>false</default>
-                <label>MXL-Mexico</label>
-            </value>
-            <value>
-                <fullName>MYC-Venezuela</fullName>
-                <default>false</default>
-                <label>MYC-Venezuela</label>
-            </value>
-            <value>
-                <fullName>MZO-Cuba</fullName>
-                <default>false</default>
-                <label>MZO-Cuba</label>
-            </value>
-            <value>
-                <fullName>MZT-Mexico</fullName>
-                <default>false</default>
-                <label>MZT-Mexico</label>
-            </value>
-            <value>
                 <fullName>NAT-Brazil</fullName>
                 <default>false</default>
                 <label>NAT-Brazil</label>
-            </value>
-            <value>
-                <fullName>NBW-Cuba</fullName>
-                <default>false</default>
-                <label>NBW-Cuba</label>
-            </value>
-            <value>
-                <fullName>NCG-Mexico</fullName>
-                <default>false</default>
-                <label>NCG-Mexico</label>
-            </value>
-            <value>
-                <fullName>NCJ-Argentina</fullName>
-                <default>false</default>
-                <label>NCJ-Argentina</label>
-            </value>
-            <value>
-                <fullName>NCR-Nicaragua</fullName>
-                <default>false</default>
-                <label>NCR-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>NEC-Argentina</fullName>
-                <default>false</default>
-                <label>NEC-Argentina</label>
-            </value>
-            <value>
-                <fullName>NLD-Mexico</fullName>
-                <default>false</default>
-                <label>NLD-Mexico</label>
-            </value>
-            <value>
-                <fullName>NOB-Costa Rica</fullName>
-                <default>false</default>
-                <label>NOB-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>NOG-Mexico</fullName>
-                <default>false</default>
-                <label>NOG-Mexico</label>
-            </value>
-            <value>
-                <fullName>NPR-Brazil</fullName>
-                <default>false</default>
-                <label>NPR-Brazil</label>
             </value>
             <value>
                 <fullName>NQN-Argentina</fullName>
@@ -1812,104 +321,9 @@
                 <label>NQN-Argentina</label>
             </value>
             <value>
-                <fullName>NTR-Mexico</fullName>
-                <default>false</default>
-                <label>NTR-Mexico</label>
-            </value>
-            <value>
-                <fullName>NVP-Brazil</fullName>
-                <default>false</default>
-                <label>NVP-Brazil</label>
-            </value>
-            <value>
-                <fullName>NVT-Brazil</fullName>
-                <default>false</default>
-                <label>NVT-Brazil</label>
-            </value>
-            <value>
-                <fullName>NZC-Peru</fullName>
-                <default>false</default>
-                <label>NZC-Peru</label>
-            </value>
-            <value>
-                <fullName>OAL-Brazil</fullName>
-                <default>false</default>
-                <label>OAL-Brazil</label>
-            </value>
-            <value>
-                <fullName>OAX-Mexico</fullName>
-                <default>false</default>
-                <label>OAX-Mexico</label>
-            </value>
-            <value>
-                <fullName>OCC-Ecuador</fullName>
-                <default>false</default>
-                <label>OCC-Ecuador</label>
-            </value>
-            <value>
-                <fullName>OES-Argentina</fullName>
-                <default>false</default>
-                <label>OES-Argentina</label>
-            </value>
-            <value>
-                <fullName>OIA-Brazil</fullName>
-                <default>false</default>
-                <label>OIA-Brazil</label>
-            </value>
-            <value>
-                <fullName>OLC-Brazil</fullName>
-                <default>false</default>
-                <label>OLC-Brazil</label>
-            </value>
-            <value>
-                <fullName>ONX-Panama</fullName>
-                <default>false</default>
-                <label>ONX-Panama</label>
-            </value>
-            <value>
-                <fullName>OPS-Brazil</fullName>
-                <default>false</default>
-                <label>OPS-Brazil</label>
-            </value>
-            <value>
-                <fullName>ORA-Argentina</fullName>
-                <default>false</default>
-                <label>ORA-Argentina</label>
-            </value>
-            <value>
-                <fullName>ORU-Bolivia</fullName>
-                <default>false</default>
-                <label>ORU-Bolivia</label>
-            </value>
-            <value>
-                <fullName>ORX-Brazil</fullName>
-                <default>false</default>
-                <label>ORX-Brazil</label>
-            </value>
-            <value>
-                <fullName>OTR-Costa Rica</fullName>
-                <default>false</default>
-                <label>OTR-Costa Rica</label>
-            </value>
-            <value>
                 <fullName>OVR-Argentina</fullName>
                 <default>false</default>
                 <label>OVR-Argentina</label>
-            </value>
-            <value>
-                <fullName>OYA-Argentina</fullName>
-                <default>false</default>
-                <label>OYA-Argentina</label>
-            </value>
-            <value>
-                <fullName>OYK-Brazil</fullName>
-                <default>false</default>
-                <label>OYK-Brazil</label>
-            </value>
-            <value>
-                <fullName>OYO-Argentina</fullName>
-                <default>false</default>
-                <label>OYO-Argentina</label>
             </value>
             <value>
                 <fullName>PAC-Panama</fullName>
@@ -1922,54 +336,9 @@
                 <label>PAP-Haiti</label>
             </value>
             <value>
-                <fullName>PAV-Brazil</fullName>
-                <default>false</default>
-                <label>PAV-Brazil</label>
-            </value>
-            <value>
-                <fullName>PAX-Haiti</fullName>
-                <default>false</default>
-                <label>PAX-Haiti</label>
-            </value>
-            <value>
-                <fullName>PAZ-Mexico</fullName>
-                <default>false</default>
-                <label>PAZ-Mexico</label>
-            </value>
-            <value>
-                <fullName>PBC-Mexico</fullName>
-                <default>false</default>
-                <label>PBC-Mexico</label>
-            </value>
-            <value>
-                <fullName>PBL-Venezuela</fullName>
-                <default>false</default>
-                <label>PBL-Venezuela</label>
-            </value>
-            <value>
-                <fullName>PBP-Costa Rica</fullName>
-                <default>false</default>
-                <label>PBP-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>PBQ-Brazil</fullName>
-                <default>false</default>
-                <label>PBQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>PBR-Guatemala</fullName>
-                <default>false</default>
-                <label>PBR-Guatemala</label>
-            </value>
-            <value>
                 <fullName>PCL-Peru</fullName>
                 <default>false</default>
                 <label>PCL-Peru</label>
-            </value>
-            <value>
-                <fullName>PCS-Brazil</fullName>
-                <default>false</default>
-                <label>PCS-Brazil</label>
             </value>
             <value>
                 <fullName>PDP-Uruguay</fullName>
@@ -1977,64 +346,9 @@
                 <label>PDP-Uruguay</label>
             </value>
             <value>
-                <fullName>PDS-Mexico</fullName>
-                <default>false</default>
-                <label>PDS-Mexico</label>
-            </value>
-            <value>
-                <fullName>PDU-Uruguay</fullName>
-                <default>false</default>
-                <label>PDU-Uruguay</label>
-            </value>
-            <value>
-                <fullName>PEH-Argentina</fullName>
-                <default>false</default>
-                <label>PEH-Argentina</label>
-            </value>
-            <value>
                 <fullName>PEM-Peru</fullName>
                 <default>false</default>
                 <label>PEM-Peru</label>
-            </value>
-            <value>
-                <fullName>PET-Brazil</fullName>
-                <default>false</default>
-                <label>PET-Brazil</label>
-            </value>
-            <value>
-                <fullName>PEU-Honduras</fullName>
-                <default>false</default>
-                <label>PEU-Honduras</label>
-            </value>
-            <value>
-                <fullName>PFB-Brazil</fullName>
-                <default>false</default>
-                <label>PFB-Brazil</label>
-            </value>
-            <value>
-                <fullName>PGZ-Brazil</fullName>
-                <default>false</default>
-                <label>PGZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>PHB-Brazil</fullName>
-                <default>false</default>
-                <label>PHB-Brazil</label>
-            </value>
-            <value>
-                <fullName>PIL-Paraguay</fullName>
-                <default>false</default>
-                <label>PIL-Paraguay</label>
-            </value>
-            <value>
-                <fullName>PIN-Brazil</fullName>
-                <default>false</default>
-                <label>PIN-Brazil</label>
-            </value>
-            <value>
-                <fullName>PIO-Peru</fullName>
-                <default>false</default>
-                <label>PIO-Peru</label>
             </value>
             <value>
                 <fullName>PIU-Peru</fullName>
@@ -2042,79 +356,14 @@
                 <label>PIU-Peru</label>
             </value>
             <value>
-                <fullName>PJC-Paraguay</fullName>
-                <default>false</default>
-                <label>PJC-Paraguay</label>
-            </value>
-            <value>
-                <fullName>PJM-Costa Rica</fullName>
-                <default>false</default>
-                <label>PJM-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>PLD-Costa Rica</fullName>
-                <default>false</default>
-                <label>PLD-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>PLL-Brazil</fullName>
-                <default>false</default>
-                <label>PLL-Brazil</label>
-            </value>
-            <value>
-                <fullName>PLP-Panama</fullName>
-                <default>false</default>
-                <label>PLP-Panama</label>
-            </value>
-            <value>
                 <fullName>PLU-Brazil</fullName>
                 <default>false</default>
                 <label>PLU-Brazil</label>
             </value>
             <value>
-                <fullName>PMC-Chile</fullName>
-                <default>false</default>
-                <label>PMC-Chile</label>
-            </value>
-            <value>
-                <fullName>PMG-Brazil</fullName>
-                <default>false</default>
-                <label>PMG-Brazil</label>
-            </value>
-            <value>
-                <fullName>PMQ-Argentina</fullName>
-                <default>false</default>
-                <label>PMQ-Argentina</label>
-            </value>
-            <value>
                 <fullName>PMV-Venezuela</fullName>
                 <default>false</default>
                 <label>PMV-Venezuela</label>
-            </value>
-            <value>
-                <fullName>PMW-Brazil</fullName>
-                <default>false</default>
-                <label>PMW-Brazil</label>
-            </value>
-            <value>
-                <fullName>PMY-Argentina</fullName>
-                <default>false</default>
-                <label>PMY-Argentina</label>
-            </value>
-            <value>
-                <fullName>PMZ-Costa Rica</fullName>
-                <default>false</default>
-                <label>PMZ-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>PNB-Brazil</fullName>
-                <default>false</default>
-                <label>PNB-Brazil</label>
-            </value>
-            <value>
-                <fullName>PNT-Chile</fullName>
-                <default>false</default>
-                <label>PNT-Chile</label>
             </value>
             <value>
                 <fullName>PNZ-Brazil</fullName>
@@ -2127,84 +376,9 @@
                 <label>POA-Brazil</label>
             </value>
             <value>
-                <fullName>POI-Bolivia</fullName>
-                <default>false</default>
-                <label>POI-Bolivia</label>
-            </value>
-            <value>
-                <fullName>POJ-Brazil</fullName>
-                <default>false</default>
-                <label>POJ-Brazil</label>
-            </value>
-            <value>
-                <fullName>POO-Brazil</fullName>
-                <default>false</default>
-                <label>POO-Brazil</label>
-            </value>
-            <value>
-                <fullName>PPB-Brazil</fullName>
-                <default>false</default>
-                <label>PPB-Brazil</label>
-            </value>
-            <value>
-                <fullName>PPE-Mexico</fullName>
-                <default>false</default>
-                <label>PPE-Mexico</label>
-            </value>
-            <value>
-                <fullName>PPY-Brazil</fullName>
-                <default>false</default>
-                <label>PPY-Brazil</label>
-            </value>
-            <value>
-                <fullName>PQM-Mexico</fullName>
-                <default>false</default>
-                <label>PQM-Mexico</label>
-            </value>
-            <value>
-                <fullName>PRA-Argentina</fullName>
-                <default>false</default>
-                <label>PRA-Argentina</label>
-            </value>
-            <value>
-                <fullName>PRQ-Argentina</fullName>
-                <default>false</default>
-                <label>PRQ-Argentina</label>
-            </value>
-            <value>
-                <fullName>PSS-Argentina</fullName>
-                <default>false</default>
-                <label>PSS-Argentina</label>
-            </value>
-            <value>
-                <fullName>PSZ-Bolivia</fullName>
-                <default>false</default>
-                <label>PSZ-Bolivia</label>
-            </value>
-            <value>
-                <fullName>PTM-Venezuela</fullName>
-                <default>false</default>
-                <label>PTM-Venezuela</label>
-            </value>
-            <value>
                 <fullName>PTY-Panama</fullName>
                 <default>false</default>
                 <label>PTY-Panama</label>
-            </value>
-            <value>
-                <fullName>PTZ-Ecuador</fullName>
-                <default>false</default>
-                <label>PTZ-Ecuador</label>
-            </value>
-            <value>
-                <fullName>PUD-Argentina</fullName>
-                <default>false</default>
-                <label>PUD-Argentina</label>
-            </value>
-            <value>
-                <fullName>PUE-Panama</fullName>
-                <default>false</default>
-                <label>PUE-Panama</label>
             </value>
             <value>
                 <fullName>PUQ-Chile</fullName>
@@ -2212,39 +386,9 @@
                 <label>PUQ-Chile</label>
             </value>
             <value>
-                <fullName>PUR-Bolivia</fullName>
-                <default>false</default>
-                <label>PUR-Bolivia</label>
-            </value>
-            <value>
-                <fullName>PUZ-Nicaragua</fullName>
-                <default>false</default>
-                <label>PUZ-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>PVH-Brazil</fullName>
-                <default>false</default>
-                <label>PVH-Brazil</label>
-            </value>
-            <value>
-                <fullName>PVO-Ecuador</fullName>
-                <default>false</default>
-                <label>PVO-Ecuador</label>
-            </value>
-            <value>
                 <fullName>PVR-Mexico</fullName>
                 <default>false</default>
                 <label>PVR-Mexico</label>
-            </value>
-            <value>
-                <fullName>PXM-Mexico</fullName>
-                <default>false</default>
-                <label>PXM-Mexico</label>
-            </value>
-            <value>
-                <fullName>PYH-Venezuela</fullName>
-                <default>false</default>
-                <label>PYH-Venezuela</label>
             </value>
             <value>
                 <fullName>PZO-Venezuela</fullName>
@@ -2257,94 +401,9 @@
                 <label>PZS-Chile</label>
             </value>
             <value>
-                <fullName>QCJ-Brazil</fullName>
-                <default>false</default>
-                <label>QCJ-Brazil</label>
-            </value>
-            <value>
-                <fullName>QHP-Brazil</fullName>
-                <default>false</default>
-                <label>QHP-Brazil</label>
-            </value>
-            <value>
-                <fullName>QIG-Brazil</fullName>
-                <default>false</default>
-                <label>QIG-Brazil</label>
-            </value>
-            <value>
-                <fullName>QNV-Brazil</fullName>
-                <default>false</default>
-                <label>QNV-Brazil</label>
-            </value>
-            <value>
-                <fullName>QPD-Cuba</fullName>
-                <default>false</default>
-                <label>QPD-Cuba</label>
-            </value>
-            <value>
-                <fullName>QPS-Brazil</fullName>
-                <default>false</default>
-                <label>QPS-Brazil</label>
-            </value>
-            <value>
-                <fullName>QRC-Chile</fullName>
-                <default>false</default>
-                <label>QRC-Chile</label>
-            </value>
-            <value>
                 <fullName>QRO-Mexico</fullName>
                 <default>false</default>
                 <label>QRO-Mexico</label>
-            </value>
-            <value>
-                <fullName>QSC-Brazil</fullName>
-                <default>false</default>
-                <label>QSC-Brazil</label>
-            </value>
-            <value>
-                <fullName>QSN-Cuba</fullName>
-                <default>false</default>
-                <label>QSN-Cuba</label>
-            </value>
-            <value>
-                <fullName>RAO-Brazil</fullName>
-                <default>false</default>
-                <label>RAO-Brazil</label>
-            </value>
-            <value>
-                <fullName>RBB-Brazil</fullName>
-                <default>false</default>
-                <label>RBB-Brazil</label>
-            </value>
-            <value>
-                <fullName>RBQ-Bolivia</fullName>
-                <default>false</default>
-                <label>RBQ-Bolivia</label>
-            </value>
-            <value>
-                <fullName>RBR-Brazil</fullName>
-                <default>false</default>
-                <label>RBR-Brazil</label>
-            </value>
-            <value>
-                <fullName>RCQ-Argentina</fullName>
-                <default>false</default>
-                <label>RCQ-Argentina</label>
-            </value>
-            <value>
-                <fullName>RCU-Argentina</fullName>
-                <default>false</default>
-                <label>RCU-Argentina</label>
-            </value>
-            <value>
-                <fullName>RDC-Brazil</fullName>
-                <default>false</default>
-                <label>RDC-Brazil</label>
-            </value>
-            <value>
-                <fullName>RDS-Argentina</fullName>
-                <default>false</default>
-                <label>RDS-Argentina</label>
             </value>
             <value>
                 <fullName>REC-Brazil</fullName>
@@ -2352,49 +411,9 @@
                 <label>REC-Brazil</label>
             </value>
             <value>
-                <fullName>REL-Argentina</fullName>
-                <default>false</default>
-                <label>REL-Argentina</label>
-            </value>
-            <value>
-                <fullName>RER-Guatemala</fullName>
-                <default>false</default>
-                <label>RER-Guatemala</label>
-            </value>
-            <value>
                 <fullName>RES-Argentina</fullName>
                 <default>false</default>
                 <label>RES-Argentina</label>
-            </value>
-            <value>
-                <fullName>REX-Mexico</fullName>
-                <default>false</default>
-                <label>REX-Mexico</label>
-            </value>
-            <value>
-                <fullName>REY-Bolivia</fullName>
-                <default>false</default>
-                <label>REY-Bolivia</label>
-            </value>
-            <value>
-                <fullName>REZ-Brazil</fullName>
-                <default>false</default>
-                <label>REZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>RFS-Nicaragua</fullName>
-                <default>false</default>
-                <label>RFS-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>RGA-Argentina</fullName>
-                <default>false</default>
-                <label>RGA-Argentina</label>
-            </value>
-            <value>
-                <fullName>RGL-Argentina</fullName>
-                <default>false</default>
-                <label>RGL-Argentina</label>
             </value>
             <value>
                 <fullName>RHD-Argentina</fullName>
@@ -2402,44 +421,9 @@
                 <label>RHD-Argentina</label>
             </value>
             <value>
-                <fullName>RIA-Brazil</fullName>
-                <default>false</default>
-                <label>RIA-Brazil</label>
-            </value>
-            <value>
-                <fullName>RIB-Bolivia</fullName>
-                <default>false</default>
-                <label>RIB-Bolivia</label>
-            </value>
-            <value>
-                <fullName>RIH-Panama</fullName>
-                <default>false</default>
-                <label>RIH-Panama</label>
-            </value>
-            <value>
-                <fullName>RIJ-Peru</fullName>
-                <default>false</default>
-                <label>RIJ-Peru</label>
-            </value>
-            <value>
-                <fullName>RNI-Nicaragua</fullName>
-                <default>false</default>
-                <label>RNI-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>ROO-Brazil</fullName>
-                <default>false</default>
-                <label>ROO-Brazil</label>
-            </value>
-            <value>
                 <fullName>ROS-Argentina</fullName>
                 <default>false</default>
                 <label>ROS-Argentina</label>
-            </value>
-            <value>
-                <fullName>RSA-Argentina</fullName>
-                <default>false</default>
-                <label>RSA-Argentina</label>
             </value>
             <value>
                 <fullName>RTB-Honduras</fullName>
@@ -2447,49 +431,9 @@
                 <label>RTB-Honduras</label>
             </value>
             <value>
-                <fullName>RUV-Guatemala</fullName>
-                <default>false</default>
-                <label>RUV-Guatemala</label>
-            </value>
-            <value>
-                <fullName>RVD-Brazil</fullName>
-                <default>false</default>
-                <label>RVD-Brazil</label>
-            </value>
-            <value>
-                <fullName>RVY-Uruguay</fullName>
-                <default>false</default>
-                <label>RVY-Uruguay</label>
-            </value>
-            <value>
-                <fullName>RZA-Argentina</fullName>
-                <default>false</default>
-                <label>RZA-Argentina</label>
-            </value>
-            <value>
                 <fullName>SAL-El Salvador</fullName>
                 <default>false</default>
                 <label>SAL-El Salvador</label>
-            </value>
-            <value>
-                <fullName>SAP-Honduras</fullName>
-                <default>false</default>
-                <label>SAP-Honduras</label>
-            </value>
-            <value>
-                <fullName>SBB-Venezuela</fullName>
-                <default>false</default>
-                <label>SBB-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SBL-Bolivia</fullName>
-                <default>false</default>
-                <label>SBL-Bolivia</label>
-            </value>
-            <value>
-                <fullName>SCI-Venezuela</fullName>
-                <default>false</default>
-                <label>SCI-Venezuela</label>
             </value>
             <value>
                 <fullName>SCL-Chile</fullName>
@@ -2502,49 +446,9 @@
                 <label>SCU-Cuba</label>
             </value>
             <value>
-                <fullName>SCY-Ecuador</fullName>
-                <default>false</default>
-                <label>SCY-Ecuador</label>
-            </value>
-            <value>
-                <fullName>SDE-Argentina</fullName>
-                <default>false</default>
-                <label>SDE-Argentina</label>
-            </value>
-            <value>
                 <fullName>SDU-Brazil</fullName>
                 <default>false</default>
                 <label>SDU-Brazil</label>
-            </value>
-            <value>
-                <fullName>SFD-Venezuela</fullName>
-                <default>false</default>
-                <label>SFD-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SFH-Mexico</fullName>
-                <default>false</default>
-                <label>SFH-Mexico</label>
-            </value>
-            <value>
-                <fullName>SFK-Brazil</fullName>
-                <default>false</default>
-                <label>SFK-Brazil</label>
-            </value>
-            <value>
-                <fullName>SFN-Argentina</fullName>
-                <default>false</default>
-                <label>SFN-Argentina</label>
-            </value>
-            <value>
-                <fullName>SGV-Argentina</fullName>
-                <default>false</default>
-                <label>SGV-Argentina</label>
-            </value>
-            <value>
-                <fullName>SIU-Nicaragua</fullName>
-                <default>false</default>
-                <label>SIU-Nicaragua</label>
             </value>
             <value>
                 <fullName>SJD-Mexico</fullName>
@@ -2557,19 +461,9 @@
                 <label>SJK-Brazil</label>
             </value>
             <value>
-                <fullName>SJL-Brazil</fullName>
-                <default>false</default>
-                <label>SJL-Brazil</label>
-            </value>
-            <value>
                 <fullName>SJO-Costa Rica</fullName>
                 <default>false</default>
                 <label>SJO-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>SJP-Brazil</fullName>
-                <default>false</default>
-                <label>SJP-Brazil</label>
             </value>
             <value>
                 <fullName>SLA-Argentina</fullName>
@@ -2577,39 +471,9 @@
                 <label>SLA-Argentina</label>
             </value>
             <value>
-                <fullName>SLP-Mexico</fullName>
-                <default>false</default>
-                <label>SLP-Mexico</label>
-            </value>
-            <value>
-                <fullName>SLW-Mexico</fullName>
-                <default>false</default>
-                <label>SLW-Mexico</label>
-            </value>
-            <value>
                 <fullName>SLZ-Brazil</fullName>
                 <default>false</default>
                 <label>SLZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>SMT-Brazil</fullName>
-                <default>false</default>
-                <label>SMT-Brazil</label>
-            </value>
-            <value>
-                <fullName>SNC-Ecuador</fullName>
-                <default>false</default>
-                <label>SNC-Ecuador</label>
-            </value>
-            <value>
-                <fullName>SNF-Venezuela</fullName>
-                <default>false</default>
-                <label>SNF-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SNJ-Cuba</fullName>
-                <default>false</default>
-                <label>SNJ-Cuba</label>
             </value>
             <value>
                 <fullName>SNU-Cuba</fullName>
@@ -2617,109 +481,9 @@
                 <label>SNU-Cuba</label>
             </value>
             <value>
-                <fullName>SNV-Venezuela</fullName>
-                <default>false</default>
-                <label>SNV-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SNZ-Brazil</fullName>
-                <default>false</default>
-                <label>SNZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>SOD-Brazil</fullName>
-                <default>false</default>
-                <label>SOD-Brazil</label>
-            </value>
-            <value>
-                <fullName>SOM-Venezuela</fullName>
-                <default>false</default>
-                <label>SOM-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SQX-Brazil</fullName>
-                <default>false</default>
-                <label>SQX-Brazil</label>
-            </value>
-            <value>
-                <fullName>SRA-Brazil</fullName>
-                <default>false</default>
-                <label>SRA-Brazil</label>
-            </value>
-            <value>
-                <fullName>SRE-Bolivia</fullName>
-                <default>false</default>
-                <label>SRE-Bolivia</label>
-            </value>
-            <value>
-                <fullName>SRJ-Bolivia</fullName>
-                <default>false</default>
-                <label>SRJ-Bolivia</label>
-            </value>
-            <value>
-                <fullName>SRZ-Bolivia</fullName>
-                <default>false</default>
-                <label>SRZ-Bolivia</label>
-            </value>
-            <value>
                 <fullName>SSA-Brazil</fullName>
                 <default>false</default>
                 <label>SSA-Brazil</label>
-            </value>
-            <value>
-                <fullName>SST-Argentina</fullName>
-                <default>false</default>
-                <label>SST-Argentina</label>
-            </value>
-            <value>
-                <fullName>SSZ-Brazil</fullName>
-                <default>false</default>
-                <label>SSZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>STB-Venezuela</fullName>
-                <default>false</default>
-                <label>STB-Venezuela</label>
-            </value>
-            <value>
-                <fullName>STD-Venezuela</fullName>
-                <default>false</default>
-                <label>STD-Venezuela</label>
-            </value>
-            <value>
-                <fullName>STM-Brazil</fullName>
-                <default>false</default>
-                <label>STM-Brazil</label>
-            </value>
-            <value>
-                <fullName>STY-Uruguay</fullName>
-                <default>false</default>
-                <label>STY-Uruguay</label>
-            </value>
-            <value>
-                <fullName>STZ-Brazil</fullName>
-                <default>false</default>
-                <label>STZ-Brazil</label>
-            </value>
-            <value>
-                <fullName>SVZ-Venezuela</fullName>
-                <default>false</default>
-                <label>SVZ-Venezuela</label>
-            </value>
-            <value>
-                <fullName>SXO-Brazil</fullName>
-                <default>false</default>
-                <label>SXO-Brazil</label>
-            </value>
-            <value>
-                <fullName>SXX-Brazil</fullName>
-                <default>false</default>
-                <label>SXX-Brazil</label>
-            </value>
-            <value>
-                <fullName>SYP-Panama</fullName>
-                <default>false</default>
-                <label>SYP-Panama</label>
             </value>
             <value>
                 <fullName>SYQ-Costa Rica</fullName>
@@ -2727,99 +491,9 @@
                 <label>SYQ-Costa Rica</label>
             </value>
             <value>
-                <fullName>SZJ-Cuba</fullName>
-                <default>false</default>
-                <label>SZJ-Cuba</label>
-            </value>
-            <value>
-                <fullName>SZT-Mexico</fullName>
-                <default>false</default>
-                <label>SZT-Mexico</label>
-            </value>
-            <value>
-                <fullName>TAM-Mexico</fullName>
-                <default>false</default>
-                <label>TAM-Mexico</label>
-            </value>
-            <value>
-                <fullName>TAP-Mexico</fullName>
-                <default>false</default>
-                <label>TAP-Mexico</label>
-            </value>
-            <value>
-                <fullName>TBP-Peru</fullName>
-                <default>false</default>
-                <label>TBP-Peru</label>
-            </value>
-            <value>
-                <fullName>TBT-Brazil</fullName>
-                <default>false</default>
-                <label>TBT-Brazil</label>
-            </value>
-            <value>
-                <fullName>TCN-Mexico</fullName>
-                <default>false</default>
-                <label>TCN-Mexico</label>
-            </value>
-            <value>
-                <fullName>TCQ-Peru</fullName>
-                <default>false</default>
-                <label>TCQ-Peru</label>
-            </value>
-            <value>
-                <fullName>TDD-Bolivia</fullName>
-                <default>false</default>
-                <label>TDD-Bolivia</label>
-            </value>
-            <value>
-                <fullName>TDL-Argentina</fullName>
-                <default>false</default>
-                <label>TDL-Argentina</label>
-            </value>
-            <value>
-                <fullName>TEA-Honduras</fullName>
-                <default>false</default>
-                <label>TEA-Honduras</label>
-            </value>
-            <value>
-                <fullName>TEC-Brazil</fullName>
-                <default>false</default>
-                <label>TEC-Brazil</label>
-            </value>
-            <value>
-                <fullName>TFF-Brazil</fullName>
-                <default>false</default>
-                <label>TFF-Brazil</label>
-            </value>
-            <value>
-                <fullName>TFL-Brazil</fullName>
-                <default>false</default>
-                <label>TFL-Brazil</label>
-            </value>
-            <value>
-                <fullName>TGI-Peru</fullName>
-                <default>false</default>
-                <label>TGI-Peru</label>
-            </value>
-            <value>
-                <fullName>TGQ-Brazil</fullName>
-                <default>false</default>
-                <label>TGQ-Brazil</label>
-            </value>
-            <value>
                 <fullName>TGU-Honduras</fullName>
                 <default>false</default>
                 <label>TGU-Honduras</label>
-            </value>
-            <value>
-                <fullName>TGZ-Mexico</fullName>
-                <default>false</default>
-                <label>TGZ-Mexico</label>
-            </value>
-            <value>
-                <fullName>THE-Brazil</fullName>
-                <default>false</default>
-                <label>THE-Brazil</label>
             </value>
             <value>
                 <fullName>TIJ-Mexico</fullName>
@@ -2832,16 +506,6 @@
                 <label>TJA-Bolivia</label>
             </value>
             <value>
-                <fullName>TJI-Honduras</fullName>
-                <default>false</default>
-                <label>TJI-Honduras</label>
-            </value>
-            <value>
-                <fullName>TJL-Brazil</fullName>
-                <default>false</default>
-                <label>TJL-Brazil</label>
-            </value>
-            <value>
                 <fullName>TLC-Mexico</fullName>
                 <default>false</default>
                 <label>TLC-Mexico</label>
@@ -2852,154 +516,9 @@
                 <label>TLX-Chile</label>
             </value>
             <value>
-                <fullName>TMO-Venezuela</fullName>
-                <default>false</default>
-                <label>TMO-Venezuela</label>
-            </value>
-            <value>
-                <fullName>TMT-Brazil</fullName>
-                <default>false</default>
-                <label>TMT-Brazil</label>
-            </value>
-            <value>
-                <fullName>TMU-Costa Rica</fullName>
-                <default>false</default>
-                <label>TMU-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>TND-Cuba</fullName>
-                <default>false</default>
-                <label>TND-Cuba</label>
-            </value>
-            <value>
-                <fullName>TNW-Ecuador</fullName>
-                <default>false</default>
-                <label>TNW-Ecuador</label>
-            </value>
-            <value>
-                <fullName>TOO-Costa Rica</fullName>
-                <default>false</default>
-                <label>TOO-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>TOQ-Chile</fullName>
-                <default>false</default>
-                <label>TOQ-Chile</label>
-            </value>
-            <value>
-                <fullName>TOW-Brazil</fullName>
-                <default>false</default>
-                <label>TOW-Brazil</label>
-            </value>
-            <value>
-                <fullName>TPC-Ecuador</fullName>
-                <default>false</default>
-                <label>TPC-Ecuador</label>
-            </value>
-            <value>
-                <fullName>TPN-Ecuador</fullName>
-                <default>false</default>
-                <label>TPN-Ecuador</label>
-            </value>
-            <value>
-                <fullName>TPP-Peru</fullName>
-                <default>false</default>
-                <label>TPP-Peru</label>
-            </value>
-            <value>
-                <fullName>TPQ-Mexico</fullName>
-                <default>false</default>
-                <label>TPQ-Mexico</label>
-            </value>
-            <value>
-                <fullName>TRC-Mexico</fullName>
-                <default>false</default>
-                <label>TRC-Mexico</label>
-            </value>
-            <value>
-                <fullName>TRQ-Brazil</fullName>
-                <default>false</default>
-                <label>TRQ-Brazil</label>
-            </value>
-            <value>
-                <fullName>TRU-Peru</fullName>
-                <default>false</default>
-                <label>TRU-Peru</label>
-            </value>
-            <value>
-                <fullName>TSL-Mexico</fullName>
-                <default>false</default>
-                <label>TSL-Mexico</label>
-            </value>
-            <value>
-                <fullName>TTC-Chile</fullName>
-                <default>false</default>
-                <label>TTC-Chile</label>
-            </value>
-            <value>
-                <fullName>TTG-Argentina</fullName>
-                <default>false</default>
-                <label>TTG-Argentina</label>
-            </value>
-            <value>
-                <fullName>TTQ-Costa Rica</fullName>
-                <default>false</default>
-                <label>TTQ-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>TUA-Ecuador</fullName>
-                <default>false</default>
-                <label>TUA-Ecuador</label>
-            </value>
-            <value>
                 <fullName>TUC-Argentina</fullName>
                 <default>false</default>
                 <label>TUC-Argentina</label>
-            </value>
-            <value>
-                <fullName>TUR-Brazil</fullName>
-                <default>false</default>
-                <label>TUR-Brazil</label>
-            </value>
-            <value>
-                <fullName>TUV-Venezuela</fullName>
-                <default>false</default>
-                <label>TUV-Venezuela</label>
-            </value>
-            <value>
-                <fullName>TXF-Brazil</fullName>
-                <default>false</default>
-                <label>TXF-Brazil</label>
-            </value>
-            <value>
-                <fullName>TYL-Peru</fullName>
-                <default>false</default>
-                <label>TYL-Peru</label>
-            </value>
-            <value>
-                <fullName>UAQ-Argentina</fullName>
-                <default>false</default>
-                <label>UAQ-Argentina</label>
-            </value>
-            <value>
-                <fullName>UBA-Brazil</fullName>
-                <default>false</default>
-                <label>UBA-Brazil</label>
-            </value>
-            <value>
-                <fullName>UBT-Brazil</fullName>
-                <default>false</default>
-                <label>UBT-Brazil</label>
-            </value>
-            <value>
-                <fullName>UDI-Brazil</fullName>
-                <default>false</default>
-                <label>UDI-Brazil</label>
-            </value>
-            <value>
-                <fullName>UII-Honduras</fullName>
-                <default>false</default>
-                <label>UII-Honduras</label>
             </value>
             <value>
                 <fullName>UIO-Ecuador</fullName>
@@ -3007,69 +526,9 @@
                 <label>UIO-Ecuador</label>
             </value>
             <value>
-                <fullName>ULA-Argentina</fullName>
-                <default>false</default>
-                <label>ULA-Argentina</label>
-            </value>
-            <value>
-                <fullName>UMU-Brazil</fullName>
-                <default>false</default>
-                <label>UMU-Brazil</label>
-            </value>
-            <value>
-                <fullName>UNA-Brazil</fullName>
-                <default>false</default>
-                <label>UNA-Brazil</label>
-            </value>
-            <value>
-                <fullName>UPB-Cuba</fullName>
-                <default>false</default>
-                <label>UPB-Cuba</label>
-            </value>
-            <value>
-                <fullName>UPL-Costa Rica</fullName>
-                <default>false</default>
-                <label>UPL-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>UPN-Mexico</fullName>
-                <default>false</default>
-                <label>UPN-Mexico</label>
-            </value>
-            <value>
-                <fullName>URG-Brazil</fullName>
-                <default>false</default>
-                <label>URG-Brazil</label>
-            </value>
-            <value>
                 <fullName>USH-Argentina</fullName>
                 <default>false</default>
                 <label>USH-Argentina</label>
-            </value>
-            <value>
-                <fullName>USS-Cuba</fullName>
-                <default>false</default>
-                <label>USS-Cuba</label>
-            </value>
-            <value>
-                <fullName>UYU-Bolivia</fullName>
-                <default>false</default>
-                <label>UYU-Bolivia</label>
-            </value>
-            <value>
-                <fullName>UZU-Argentina</fullName>
-                <default>false</default>
-                <label>UZU-Argentina</label>
-            </value>
-            <value>
-                <fullName>VAG-Brazil</fullName>
-                <default>false</default>
-                <label>VAG-Brazil</label>
-            </value>
-            <value>
-                <fullName>VAL-Brazil</fullName>
-                <default>false</default>
-                <label>VAL-Brazil</label>
             </value>
             <value>
                 <fullName>VCP-Brazil</fullName>
@@ -3077,74 +536,9 @@
                 <label>VCP-Brazil</label>
             </value>
             <value>
-                <fullName>VCR-Venezuela</fullName>
-                <default>false</default>
-                <label>VCR-Venezuela</label>
-            </value>
-            <value>
-                <fullName>VDC-Brazil</fullName>
-                <default>false</default>
-                <label>VDC-Brazil</label>
-            </value>
-            <value>
-                <fullName>VDM-Argentina</fullName>
-                <default>false</default>
-                <label>VDM-Argentina</label>
-            </value>
-            <value>
-                <fullName>VDP-Venezuela</fullName>
-                <default>false</default>
-                <label>VDP-Venezuela</label>
-            </value>
-            <value>
-                <fullName>VDR-Argentina</fullName>
-                <default>false</default>
-                <label>VDR-Argentina</label>
-            </value>
-            <value>
-                <fullName>VER-Mexico</fullName>
-                <default>false</default>
-                <label>VER-Mexico</label>
-            </value>
-            <value>
-                <fullName>VIG-Venezuela</fullName>
-                <default>false</default>
-                <label>VIG-Venezuela</label>
-            </value>
-            <value>
-                <fullName>VIX-Brazil</fullName>
-                <default>false</default>
-                <label>VIX-Brazil</label>
-            </value>
-            <value>
-                <fullName>VLG-Argentina</fullName>
-                <default>false</default>
-                <label>VLG-Argentina</label>
-            </value>
-            <value>
-                <fullName>VLM-Bolivia</fullName>
-                <default>false</default>
-                <label>VLM-Bolivia</label>
-            </value>
-            <value>
                 <fullName>VLN-Venezuela</fullName>
                 <default>false</default>
                 <label>VLN-Venezuela</label>
-            </value>
-            <value>
-                <fullName>VLP-Brazil</fullName>
-                <default>false</default>
-                <label>VLP-Brazil</label>
-            </value>
-            <value>
-                <fullName>VLR-Chile</fullName>
-                <default>false</default>
-                <label>VLR-Chile</label>
-            </value>
-            <value>
-                <fullName>VLV-Venezuela</fullName>
-                <default>false</default>
-                <label>VLV-Venezuela</label>
             </value>
             <value>
                 <fullName>VME-Argentina</fullName>
@@ -3157,119 +551,9 @@
                 <label>VRA-Cuba</label>
             </value>
             <value>
-                <fullName>VRO-Cuba</fullName>
-                <default>false</default>
-                <label>VRO-Cuba</label>
-            </value>
-            <value>
-                <fullName>VSA-Mexico</fullName>
-                <default>false</default>
-                <label>VSA-Mexico</label>
-            </value>
-            <value>
-                <fullName>VTU-Cuba</fullName>
-                <default>false</default>
-                <label>VTU-Cuba</label>
-            </value>
-            <value>
                 <fullName>VVI-Bolivia</fullName>
                 <default>false</default>
                 <label>VVI-Bolivia</label>
-            </value>
-            <value>
-                <fullName>WCH-Chile</fullName>
-                <default>false</default>
-                <label>WCH-Chile</label>
-            </value>
-            <value>
-                <fullName>WPR-Chile</fullName>
-                <default>false</default>
-                <label>WPR-Chile</label>
-            </value>
-            <value>
-                <fullName>WPU-Chile</fullName>
-                <default>false</default>
-                <label>WPU-Chile</label>
-            </value>
-            <value>
-                <fullName>WSP-Nicaragua</fullName>
-                <default>false</default>
-                <label>WSP-Nicaragua</label>
-            </value>
-            <value>
-                <fullName>XAP-Brazil</fullName>
-                <default>false</default>
-                <label>XAP-Brazil</label>
-            </value>
-            <value>
-                <fullName>XMS-Ecuador</fullName>
-                <default>false</default>
-                <label>XMS-Ecuador</label>
-            </value>
-            <value>
-                <fullName>XPL-Honduras</fullName>
-                <default>false</default>
-                <label>XPL-Honduras</label>
-            </value>
-            <value>
-                <fullName>XQP-Costa Rica</fullName>
-                <default>false</default>
-                <label>XQP-Costa Rica</label>
-            </value>
-            <value>
-                <fullName>YAI-Chile</fullName>
-                <default>false</default>
-                <label>YAI-Chile</label>
-            </value>
-            <value>
-                <fullName>YMS-Peru</fullName>
-                <default>false</default>
-                <label>YMS-Peru</label>
-            </value>
-            <value>
-                <fullName>ZAL-Chile</fullName>
-                <default>false</default>
-                <label>ZAL-Chile</label>
-            </value>
-            <value>
-                <fullName>ZCL-Mexico</fullName>
-                <default>false</default>
-                <label>ZCL-Mexico</label>
-            </value>
-            <value>
-                <fullName>ZCO-Chile</fullName>
-                <default>false</default>
-                <label>ZCO-Chile</label>
-            </value>
-            <value>
-                <fullName>ZIC-Chile</fullName>
-                <default>false</default>
-                <label>ZIC-Chile</label>
-            </value>
-            <value>
-                <fullName>ZIH-Mexico</fullName>
-                <default>false</default>
-                <label>ZIH-Mexico</label>
-            </value>
-            <value>
-                <fullName>ZLO-Mexico</fullName>
-                <default>false</default>
-                <label>ZLO-Mexico</label>
-            </value>
-            <value>
-                <fullName>ZMM-Mexico</fullName>
-                <default>false</default>
-                <label>ZMM-Mexico</label>
-            </value>
-            <value>
-                <fullName>ZOS-Chile</fullName>
-                <default>false</default>
-                <label>ZOS-Chile</label>
-            </value>
-            <value>
-                <fullName>ZPC-Chile</fullName>
-                <default>false</default>
-                <label>ZPC-Chile</label>
             </value>
         </valueSetDefinition>
     </valueSet>

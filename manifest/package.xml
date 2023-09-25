@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+        <!-- Agregar la aplicación personalizada -->
+        <members>Flight_app</members>
+        <name>CustomApplication</name>
+    </types>
+<types>
+        <!-- Componente Lightning Web Component -->
+        <members>FlightGenerator</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <!-- Incluye objetos personalizados -->
+        <members>Flight__c</members>
+        <members>Airport__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <!-- Incluye campos personalizados -->
+        <members>Flight__c.Departure_Airport__c</members>
+        <members>Flight__c.Arrival_Airport__c</members>
+        <members>Flight__c.Departure_airport__c</members>
+        <members>Flight__c.Flight_distance__c</members>
+        <members>Flight__c.Name</members>
+        <members>Airport__c.Name</members>
+        <members>Airport__c.Country__c</members>
+        <members>Airport__c.IATA_code__c</members>
+        <members>Airport__c.Latitude__c</members>
+        <members>Airport__c.Longitude__c</members>
+        <!-- Agrega otros campos personalizados aquí según sea necesario -->
+        <name>CustomField</name>
+    </types>
+    <types>
+    <!-- Incluye la vista de lista personalizada del objeto-->
+    <members>Airport__c.Nueva_lista</members>
+        <members>Flight__c.Nueva_lista</members>
+    <name>ListView</name>
+</types>
+    <types>
+        <!-- Agregar el Lightning App Builder -->
+        <members>Flight_generator</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <!-- Incluye clases Apex personalizadas relacionadas -->
+        <members>FlightController</members>
+        <!-- Agrega otras clases Apex personalizadas aquí según sea necesario -->
+        <name>ApexClass</name>
+    </types>
+
+    <version>59.0</version>
+</Package>
